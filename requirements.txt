@@ -4,3 +4,4 @@ matplotlib
 ipywidgets
 seaborn
 scikit-learn
+xlrd
