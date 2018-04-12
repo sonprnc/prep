@@ -1,7 +1,7 @@
 pandas
 numpy
-matplotlib
+matplotlib==1.7.3
 ipywidgets
-seaborn
+seaborn==0.7.1
 scikit-learn
 xlrd
